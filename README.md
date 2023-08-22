@@ -1,6 +1,6 @@
 # Interactive Calculator with Keypad and LCD for Tiva-C Microcontroller
 
-![Calculator Demo](https://www.github.com/eroshdy97/Interactive-Calculator-with-Keypad-and-LCD-for-Tiva-C-Microcontroller/blob/main/Demo/Demo.mp4)
+https://www.github.com/eroshdy97/Interactive-Calculator-with-Keypad-and-LCD-for-Tiva-C-Microcontroller/blob/main/Demo/Demo.mp4
 
 ## Table of Contents
 
