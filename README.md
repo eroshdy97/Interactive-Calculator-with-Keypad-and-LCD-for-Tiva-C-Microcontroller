@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
-- [Project Demo](#project-demo).
+- [Project Demo](#project-demo)
 - [Getting Started](#getting-started)
   - [Hardware Setup](#hardware-setup)
   - [Software Compilation](#software-compilation)
