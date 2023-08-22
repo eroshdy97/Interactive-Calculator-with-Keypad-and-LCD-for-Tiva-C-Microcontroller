@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
+- [Project Demo](#project-demo).
 - [Getting Started](#getting-started)
   - [Hardware Setup](#hardware-setup)
   - [Software Compilation](#software-compilation)
@@ -47,6 +48,12 @@ To run this project, you'll need the following hardware components:
 - **Jumper Wires:** Use jumper wires to establish connections between the microcontroller, keypad, and LCD screen.
 
 - **Breadboard (if required):** A breadboard can be used to organize and manage the connections between components.
+
+## Project Demo
+
+See the calculator in action! Below is a GIF image demonstrating the calculator's functionality. You can also watch a more detailed demo video by following the link provided.
+
+[Watch Demo Video](https://www.github.com/eroshdy97/Interactive-Calculator-with-Keypad-and-LCD-for-Tiva-C-Microcontroller/blob/main/Demo/Demo.mp4)
 
 ## Getting Started
 
