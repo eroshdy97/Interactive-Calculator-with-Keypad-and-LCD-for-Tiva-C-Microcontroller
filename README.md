@@ -51,7 +51,7 @@ To run this project, you'll need the following hardware components:
 
 ## Project Demo
 
-See the calculator in action! Below is a GIF image demonstrating the calculator's functionality. You can also watch a more detailed demo video by following the link provided.
+See the calculator in action! Below is a detailed demo video demonstrating the calculator's functionality.
 
 [Watch Demo Video](https://www.github.com/eroshdy97/Interactive-Calculator-with-Keypad-and-LCD-for-Tiva-C-Microcontroller/blob/main/Demo/Demo.mp4)
 
