@@ -1,4 +1,5 @@
-# Interactive Calculator with Keypad and LCD for Tiva-C Microcontroller :calculator:
+# Interactive Calculator with Keypad and LCD for Tiva-C Microcontroller 
+:calculator:
 
 ![Calculator Demo](demo.gif)
 
