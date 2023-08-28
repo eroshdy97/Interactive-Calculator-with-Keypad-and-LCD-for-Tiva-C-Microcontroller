@@ -7,7 +7,7 @@
 
 #pragma once
 
-// Define the mapping of keys on the keypad to characters
+/* Define the mapping of keys on the keypad to characters */
 static char keypadMap[4][4] =
 {
     {'1', '2', '3', '+'},

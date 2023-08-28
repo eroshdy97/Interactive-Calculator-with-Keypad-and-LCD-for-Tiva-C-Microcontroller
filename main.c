@@ -1,6 +1,8 @@
 #include "Application/APPLICATION_interface.h"
+#include "LIB/STD_TYPES.h"
 
-int main(void)
+uint32 main(void)
 {
     Application();
+    return 0;
 }

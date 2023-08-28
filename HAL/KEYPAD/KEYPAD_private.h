@@ -7,9 +7,9 @@
 
 #pragma once
 
-// Define variables to store port and pin information for rows and columns
+/* Define variables to store port and pin information for rows and columns */
 static unsigned char ColPort;
-static unsigned char ColPins;
+/* static unsigned char ColPins; */
 static unsigned char RowPort;
 static unsigned char RowPins;
 
